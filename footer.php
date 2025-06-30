@@ -5,8 +5,8 @@
                 <h3><?php _e('Contact Information', 'mezquita-alhuda'); ?></h3>
                 <div class="contact-info">
                     <p><i class="fas fa-map-marker-alt"></i> <?php echo get_theme_mod('mosque_address', 'Calle Principal 123, Arrecife, Lanzarote'); ?></p>
-                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone', '+34 928 123 456'); ?></p>
-                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email', 'info@mezquitaalhuda.es'); ?></p>
+                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone', '+34 627095609'); ?></p>
+                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email', 'masjidalhudaalhuda7@gmail.com'); ?></p>
                 </div>
             </div>
             
@@ -20,7 +20,7 @@
             <div class="footer-section">
                 <h3><?php _e('Support Our Mosque', 'mezquita-alhuda'); ?></h3>
                 <p><?php _e('Your donations help us maintain and improve our services', 'mezquita-alhuda'); ?></p>
-                <p><strong><?php _e('IBAN:', 'mezquita-alhuda'); ?></strong> <?php echo get_theme_mod('donation_iban', 'ES12 3456 7890 1234 5678 9012'); ?></p>
+                <p><strong><?php _e('IBAN:', 'mezquita-alhuda'); ?></strong> <?php echo get_theme_mod('donation_iban', 'ES33 2100 6992 4402 0012 8409'); ?></p>
             </div>
         </div>
         
@@ -35,7 +35,7 @@
 </html>
 
 <!-- Botón Flotante de WhatsApp -->
-<a href="https://api.whatsapp.com/send?phone=34928123456&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20la%20mezquita." class="whatsapp-float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=34627095609&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20la%20mezquita." class="whatsapp-float" target="_blank">
     <i class="fab fa-whatsapp"></i>
 </a>
 
