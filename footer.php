@@ -5,8 +5,8 @@
                 <h3><?php _e('Contact Information', 'mezquita-alhuda'); ?></h3>
                 <div class="contact-info">
                     <p><i class="fas fa-map-marker-alt"></i> <?php echo get_theme_mod('mosque_address', 'Calle Principal 123, Arrecife, Lanzarote'); ?></p>
-                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone', '+34627095609'); ?></p>
-                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email', 'masjidalhudaalhuda7@gmail.com'); ?></p>
+                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone',  '+34627095609'); ?></p>
+                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email',  'masjidalhudaalhuda7@gmail.com'); ?></p>
                 </div>
             </div>
             
