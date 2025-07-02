@@ -1,12 +1,12 @@
-﻿<footer class="site-footer">
+<footer class="site-footer">
     <div class="container">
         <div class="footer-content">
             <div class="footer-section">
                 <h3><?php _e('Contact Information', 'mezquita-alhuda'); ?></h3>
                 <div class="contact-info">
-                    <p><i class="fas fa-map-marker-alt"></i> <?php echo get_theme_mod('mosque_address', 'Calle Principal 123, Arrecife, Lanzarote'); ?></p>
-                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone',  '+34627095609'); ?></p>
-                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email',  'masjidalhudaalhuda7@gmail.com'); ?></p>
+                    <p><i class="fas fa-map-marker-alt"></i> <?php echo get_theme_mod('mosque_address', 'Playa Blanca, Lanzarote 35580'); ?></p>
+                    <p><i class="fas fa-phone"></i> <?php echo get_theme_mod('mosque_phone', '+34 627 095 609'); ?></p>
+                    <p><i class="fas fa-envelope"></i> <?php echo get_theme_mod('mosque_email', 'masjidalhudaalhuda7@gmail.com'); ?></p>
                 </div>
             </div>
             
@@ -29,10 +29,6 @@
         </div>
     </div>
 </footer>
-
-<?php wp_footer(); ?>
-</body>
-</html>
 
 <!-- Botón Flotante de WhatsApp -->
 <a href="https://api.whatsapp.com/send?phone=34627095609&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20la%20mezquita." class="whatsapp-float" target="_blank">
